@@ -1,0 +1,10 @@
+<p>This part of the analysis it the most simple because there are many more confouding factors that I am unable to access such as the algorithm. Further research in the algorithm maybe needed to give a clearer picture on the promotion side.</p>
+
+## Conclusion
+<p>from my research on the HMOs industry in Indonesia I have found several interesting points</p>
+<ul>
+<li>Facilities can significantly increase the rent of HMOs. So, we need to evaluate the costs of investing in facilities that give the most benefit. Which in this case is (AC, WiFi, and Mattress)</li>
+<li>It is better to invest more in facilities than land. Even though the nearer an HMO is to a university, the more expensive its rent, the increase in rent is far smaller than the increase in rent caused by investing in facilities. </li>
+<li>Mixed gender HMOs are in general more expensive in rent. This create an opportunity to create more mixed gender HMOs. But building this kind of HMOs need to take into account if the neighborhood agrees with building a mixed HMOs, considering it is still taboo.</li>
+<li> Landowners can use minimal commitment months to ensure the renters do not move out quickly, which decreases the cost for renovation post-renter. But the HMO seller needs justification to the price commitment. This is by giving a discount to stay longer, or making the HMO as comfortable for the customers</li>
+</ul>

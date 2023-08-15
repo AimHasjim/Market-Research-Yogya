@@ -1,0 +1,6 @@
+
+## Product
+### Facilities
+<p>HMOs in Yogyakarta have varieties of facilities. These facilities are used to attract more affluent students to stay in their HMO. Facilities ranges from air conditioners, mattress, inside bathrooms, WiFi, etc.</p>
+<p>In the graph below, you can compare the average price of HMO rents between the availability of facilities and the non-availability of facilities. From the graphs below you can see that having any kind of facilities will increase the rent of HMOs. This is true exceept for fans. HMOs that have fans usually do not have air conditioners. So, from the graph below we can see that on average, HMOs that have fans are cheaper that HMOs that do not have fans.</p>
+<p><b>You can change the facilities and compare the price difference by yourself. Try it!</b></p>

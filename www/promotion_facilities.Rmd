@@ -1,0 +1,2 @@
+### Facilities
+<p>next, I am going to analyze the average view count given the facilities offered to the page. I am not going to use all of the facilities, because the display only include several "Crucial" facilities like AC, WiFI, etc. Below is the plot comparing average view counts between HMO that has and doesnt have given facilities. We can see that most having facilities increases the average view count, but not by much. Even, we can see that having AC decreases the average view count. this may caused by the increase of price of facilities using AC</p>

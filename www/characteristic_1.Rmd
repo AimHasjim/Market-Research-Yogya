@@ -1,0 +1,3 @@
+## Price
+### Characteristics
+<p>Other than facilities, there are some other charactersitics of an HMO that can be analysed. These characteristics to be analyzed are the the <b>gender of HMO, the room size, and the building age</b>. The gender of the HMO will be analyzed by a boxplot, whereas the building age and room size will be analyzed by scatterplot and trendline. <b>Choose the charactheristics below to generate the graph! </b></p>

@@ -1,0 +1,6 @@
+## Welcome
+<p>Yogyakarta is known as a student city. This have an impact to its housing market. Students do not stay in Yogyakarta permanently. They primarily lives in <b> Houses-in-Multiple-Occupations (HMOs) </b>. In this website, I am going to do a market research on the HMOs industry in Yogyakarta.</p>
+I am going to use the 4Ps of marketing. Product, Price, Place, and Promotion. First, I am going to research the product of HMOs in Yogyakarta, which include its facilities and amenities. The HMOs data used in these analyses are gathered by web scraping a popular online marketplace for HMOs ([mamikos.com](https://mamikos.com))
+<br>
+
+

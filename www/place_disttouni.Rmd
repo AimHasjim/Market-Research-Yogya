@@ -1,0 +1,7 @@
+<br>
+<p> you can see by exploring the map above that the price of HMO varies greatly. In the same distance, there is still a huge variation between prices. This begs the question, does location of universities really matter to the price of HMO? To answer this question, we need to analyze the correlation between distance to university and HMO price even deeper</p>
+
+### Distance to University
+
+<p> Next, we are going to see a scatterplot between rent and distance to university. The default is to include all universities for this analysis, <b>but you can change which universities are included for the analysis by de-selecting the university</b>. </p>
+<br>

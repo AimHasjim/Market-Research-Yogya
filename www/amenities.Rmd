@@ -1,0 +1,4 @@
+### Amenities
+<p>Other than facilities, neighborhood amenities also play a role in where students decide to stay. Student tend to stay in neighborhood that have many amenities such as restaurants, cafes, stalls, etc. So, landowners needs to know how neighborhood amenities effect student's choice</p>
+<p>Below are the graphs of correlation between HMOs rent price and neighborhood amenities. The neighborhood amenities are gathered from PODES data from BPS. We can see that most amenities have positive correlation with HMOs rent price. <b>What this means is the higher the number of amenities, on average, rent price will be higher</b></p>
+<p>This is not true for non-permanent and semi-permanent markets. These kinds of marketplaces are usually located by the streets, <b>making the neighborhood seems more seedy</b>. Students may not prefer neighborhood like this, thus <b>pushing the rent price down</b>.</p>

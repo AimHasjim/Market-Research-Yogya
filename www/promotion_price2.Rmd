@@ -1,0 +1,4 @@
+<p> the image above is an example of what comes out when you search for HMOs in mamikos.com. We can see it displays the name, the price, the location, the facilities, and the image of the room. Here, I am going to analyze how the price and facilities effect the view count of HMOs. A high viewcount may means that it is looked more by potential consumers.</p>
+
+### Price
+<p> I am going to anlayze the relationship between price and view count by plotting it using a scatterplot below. From the plot we can see, tht is no obvious relationship linear relationship between price and view count. But we can see that most views are in the HMOs with prices around 1 Million Rupiah. This means that potential customers are looking for cheap HMOs, but not too cheap because they know it will compromise the facilities.</p>

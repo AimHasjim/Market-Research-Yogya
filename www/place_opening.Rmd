@@ -1,0 +1,3 @@
+## Place
+<p> The next thing to note about the HMO market is the location of HMO. As noted previously, most HMOs in Yogyakarta are inhabited by students. These students go to their universities daily. This means, students will choose an HMO that is close to the university. This will increase the land value near universities and increase the rent price. This can be explored by the map below. The map below contains the sample of HMOs and its nearest university. On the map below, You can chose the nearest university, the gender of the HMO, and the maximum distance from the university. After the map has been generated, <b>you can also click each HMOs to see the information of each HMOs</b></p>
+<br>
