@@ -1,5 +1,4 @@
 #### gatthering Data
-setwd("E:/R/Rshiny/Proto")
 
 ######### Servers########
 
